@@ -27,4 +27,10 @@ The loss is the sum of the activations in the chosen layers. The loss is normali
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL9.png">   |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL13.png"> | 
 
 
+| | | 
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL4_activation_3981.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL11_activation_2656.png">| 
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL9_conv2d_2154.png">   |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL13_conv2d_2293.png"> | 
+
+
 
