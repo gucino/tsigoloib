@@ -37,14 +37,18 @@ Oppurtunity or Threat? The Beginning or the End? The concept of [Aritificial Int
 
 May be it is the time to find the new normal. The [New-Normal](https://opensea.io/tsigoloib/new-normal-3?search[resultModel]=ASSETS&search[sortBy]=LISTING_DATE) collection sum up the Corona virus crisis in simple visualisation. The object combine the Earth with the virus shape. The object is warp with the world's map texture which is intentionally made to be unperfect circle. The protein part of virus penetrate out from the surface to represent the situation that humanity got invaded by the virus.  
 
-
-
 | | | 
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_11_activation_2482.png">   |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_6_activation_1883activation_1885.png"> | 
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_9_batch_normalization_3400.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_8_conv2d_3547.png">| 
 
 
+# The infected DNA
+
+| | | 
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA5_conv2d_236conv2d_280.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA3_batch_normalization_1770.png">   |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA2_batch_normalization_1805.png">   |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA4_average_pooling2d_110.png">   
 
 
 
