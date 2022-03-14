@@ -41,6 +41,12 @@ The loss is the sum of the activations in the chosen layers. The loss is normali
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_9.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_8.png">| 
 
 
+| | | 
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_11_activation_2482.png">   |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_6_activation_1883activation_1885.png"> | 
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_9_batch_normalization_3400.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_8_conv2d_3547.png">| 
+
+
 
 
 
