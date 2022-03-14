@@ -47,8 +47,8 @@ May be it is the time to find the new normal. The [New-Normal](https://opensea.i
 
 | | | 
 |:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA5_conv2d_236conv2d_280.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA3_batch_normalization_1770.png">   |
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA2_batch_normalization_1805.png">   |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA4_average_pooling2d_110.png">   
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA2_batch_normalization_1805.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA3_batch_normalization_1770.png">   |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA5_conv2d_236conv2d_280.png">   |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA4_average_pooling2d_110.png">   
 
 
 
