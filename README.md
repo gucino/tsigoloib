@@ -7,8 +7,8 @@ The idea in DeepDream is to choose a layer (or layers) and maximize the "loss" i
 The loss is the sum of the activations in the chosen layers. The loss is normalized at each layer so the contribution from larger layers does not outweigh smaller layers. Normally, loss is a quantity you wish to minimize via gradient descent. In DeepDream, you will maximize this loss via gradient ascent.
 
 
-# Did You Wash Your Hand?
-Have I washed my hand? The concept of this collection is to repesent the overthinking about Corona virus. The object used the overall shape of the brain where one side have the realistic-brain pink colour texture while the other side has the green dirty Corona virus texture to represent the feeling that we worried about the virus all the time.
+# Did You Wash Your Hands?
+Have I wash my hand? The concept of [Did You Wash Your Hands?](https://opensea.io/tsigoloib/did-you-wash-your-hands?search[resultModel]=ASSETS&search[sortBy]=LISTING_DATE) collection is to repesent the overthinking about Corona virus. The object used the overall shape of the brain where one side have the realistic-brain pink colour texture while the other side has the green dirty Corona virus texture to represent the feeling that we worried about the virus all the time.
 <!---
 | | | 
 |:-------------------------:|:-------------------------:|
@@ -22,7 +22,8 @@ Have I washed my hand? The concept of this collection is to repesent the overthi
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain7_conv2d_426.png">   |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain6_conv2d_37.png"> | 
 
 # Aritificial Intelligence: Oppurtunity or Threat?
-Oppurtunity or Threat? The Beginning or the End? The concept of this collection is to question whether the raise of Artificial Intelligence is the future of humanity or the end. The object represent the struture of ANN (Artificial Neural Network) in 3D which is inspired from real neural network inside human brain. Since most of the people view the AI to be the futrue of the humanity, the connection between each neuron is made with red color muscle-like texture to resemble Titan skin (attack on titan) to represent the fearness of AI destroying the humanity. The node itself is created with the bone-like texture, which is also inspired from attack on Titan.
+Oppurtunity or Threat? The Beginning or the End? The concept of [Aritificial Intelligence: Oppurtunity or Threat?](https://opensea.io/tsigoloib/aritificial-intelligence-oppurtunities-or-threats?search[resultModel]=ASSETS&search[sortBy]=LISTING_DATE) collection is to question whether the raise of Artificial Intelligence is the future of humanity or the end. The object represent the struture of ANN (Artificial Neural Network) in 3D which is inspired from real neural network inside human brain. Since most of the people view the AI to be the futrue of the humanity, the connection between each neuron is made with red color muscle-like texture to resemble Titan skin (attack on titan) to represent the fearness of AI destroying the humanity. The node itself is created with the bone-like texture, which is also inspired from attack on Titan.
+
 <!---
 | | | 
 |:-------------------------:|:-------------------------:|
@@ -45,7 +46,9 @@ Oppurtunity or Threat? The Beginning or the End? The concept of this collection 
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_9.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_8.png">| 
 -->
 
-May be it is the time to find the new normal. This collection sum up the Corona virus crisis in simple visualisation. The object combine the Earth with the virus shape. The object is warp with the world's map texture which is intentionally made to be unperfect circle. The protein part of virus penetrate out from the surface to represent the situation that humanity got invaded by the virus.  
+May be it is the time to find the new normal. The [New-Normal](https://opensea.io/tsigoloib/new-normal-3?search[resultModel]=ASSETS&search[sortBy]=LISTING_DATE) collection sum up the Corona virus crisis in simple visualisation. The object combine the Earth with the virus shape. The object is warp with the world's map texture which is intentionally made to be unperfect circle. The protein part of virus penetrate out from the surface to represent the situation that humanity got invaded by the virus.  
+
+
 
 | | | 
 |:-------------------------:|:-------------------------:|
