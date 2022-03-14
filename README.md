@@ -44,7 +44,7 @@ Oppurtunity or Threat? The Beginning or the End? The concept of this collection 
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_11.png">   |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_6.png"> | 
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_9.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_8.png">| 
 -->
-
+This collection visualise the Corona virus crisis in picture. The object combine the Earth with the virus to represent the situation that humanity got invaded by the virus.
 | | | 
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_11_activation_2482.png">   |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_6_activation_1883activation_1885.png"> | 
