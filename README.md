@@ -12,7 +12,7 @@ The loss is the sum of the activations in the chosen layers. The loss is normali
 -->
 
 # Did You Wash Your Hand?
-The concept of this collection is to repesent the overthinking about Corona virus in the sense that 'have i washed my hand?'. The object used the shape of the brain where one side have the realistic-brain pink colour texture while the other side has the green dirty Corona virus texture. 
+Have I washed my hand? The concept of this collection is to repesent the overthinking about Corona virus. The object used the overall shape of the brain where one side have the realistic-brain pink colour texture while the other side has the green dirty Corona virus texture to represent the feeling that we worried about the virus all the time.
 <!---
 | | | 
 |:-------------------------:|:-------------------------:|
