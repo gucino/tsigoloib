@@ -22,8 +22,8 @@ The concept of this collection is to repesent the overthinking about Corona viru
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain2_conv2d_1380activation_1399.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain5_activation_580.png">| 
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain7_conv2d_426.png">   |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain6_conv2d_37.png"> | 
 
-# Deep Learning
-The concept of this collection is to question whether the raise of Artificial Intelligence is the future of humanity or the end. The object represent the struture of ANN (Artificial Neural Network) in 3D which is inspired from real neural network inside human brain. Since most of the people view the AI to be the futrue of the humanity, the connection between each neuron is made with muscle-like texture to resemble Titan (attack on titan) to represent the fearness of AI going to destroy the humanity. The node itself is created with the bone-like texture, which is also inspired from attack on Titan.
+# Aritificial Intelligence: Oppurtunity or Treat?
+The concept of this collection is to question whether the raise of Artificial Intelligence is the future of humanity or the end. The object represent the struture of ANN (Artificial Neural Network) in 3D which is inspired from real neural network inside human brain. Since most of the people view the AI to be the futrue of the humanity, the connection between each neuron is made with red color muscle-like texture to resemble Titan skin (attack on titan) to represent the fearness of AI destroying the humanity. The node itself is created with the bone-like texture, which is also inspired from attack on Titan.
 | | | 
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL4.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL11.png">| 
