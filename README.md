@@ -1,6 +1,6 @@
 
 # Overview
-[tsigoloib](https://opensea.io/tsigoloib) which is "biologist" backward is an biology and artificial intelligence inspired NFT minted on [opensea.io](https://opensea.io) polygon chain since June 2021 using Blender 3D. The theme here combine the aspect of biology such as virus/disease and technology such as artificial intelligence and cyber crime. 
+[tsigoloib](https://opensea.io/tsigoloib) which is "biologist" backward is an biology and artificial intelligence inspired NFT minted on [opensea.io](https://opensea.io) polygon chain since June 2021 using Blender 3D. The theme here combine the aspect of biology such as virus/disease and technology such as artificial intelligence and cyber crime.
 
 | | | | | |
 |:-------------------------:|:-------------------------:| :-------------------------:|:-------------------------:|:-------------------------:|
