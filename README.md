@@ -44,7 +44,8 @@ May be it is the time to find the new normal. The [New-Normal](https://opensea.i
 
 
 # The infected DNA
-This is just random collection created when I want to experience new technique to create spiral/DNA-like structure in Blender. The DNA shape is constructed with 2 spiral shape which are wrap with green dirty like texture. Futuremore, large amount of small particle is also acttach with the core shape to create rough dirty like surface of DNA. If you look closely there are some spiders on the DNA as well.
+[The infected DNA](https://opensea.io/tsigoloib/the-infected-dna?search[sortBy]=LISTING_DATE) collection is just random collection created when I want to experience new technique to create spiral/DNA-like structure in Blender. The DNA shape is constructed with 2 spiral shape which are wrap with green dirty like texture. Futuremore, large amount of small particle is also acttach with the core shape to create rough dirty like surface of DNA. If you look closely there are some spiders on the DNA as well.
+
 | | | 
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA2_batch_normalization_1805.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA3_batch_normalization_1770.png">   |
