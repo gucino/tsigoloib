@@ -92,6 +92,9 @@ May be it is the time to find the new normal. The [New-Normal](https://opensea.i
 
 
 # The second wave of covid19
+
+[The 2nd Wave of Covid19](https://opensea.io/tsigoloib/the-second-wave-of-covid19?search[sortBy]=LISTING_DATE) is the follow up collection from the first Covid19 collection where the overall concept and shape is the same while the change is the texture. 
+
 | | | 
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus6_batch_normalization_3624.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus7_average_pooling2d_321.png"> |
