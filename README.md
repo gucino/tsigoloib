@@ -1,6 +1,6 @@
 
 # Overview
-[tsigoloib](https://opensea.io/tsigoloib) which is "biologist" backward is an biology and artificial intelligence inspired NFT minted on [opensea.io](https://opensea.io) polygon chain since June 2021 using Blender 3D. The theme here combine the aspect of biology such as virus/disease and technology such as artificial intelligence and cyber crime. There are currently 5 collection: 1.The new-normal 2.The 2nd wave of Covid19 3.The infected DNA 4.Did you wash your hands 5.Artificial Intelligence: Oppurtunity or Threat
+[tsigoloib](https://opensea.io/tsigoloib), biologist backward is an biology and artificial intelligence inspired NFT minted on [opensea.io](https://opensea.io) polygon chain since June 2021 using Blender 3D modeling. The theme here combine the aspect of biology such as virus/disease and technology such as artificial intelligence and cyber crime. There are currently 5 collections: The new-normal, The 2nd wave of Covid19, The infected DNA, Did you wash your hands, Artificial Intelligence: Oppurtunity or Threat.
 
 | | | | | |
 |:-------------------------:|:-------------------------:| :-------------------------:|:-------------------------:|:-------------------------:|
@@ -11,9 +11,9 @@
 
 # Deep-Dream
 
-Qoute from [official website](https://www.tensorflow.org/tutorials/generative/deepdream): "DeepDream is an experiment that visualizes the patterns learned by a neural network. Similar to when a child watches clouds and tries to interpret random shapes, DeepDream over-interprets and enhances the patterns it sees in an image. The idea in DeepDream is to choose a layer (or layers) and maximize the "loss" in a way that the image increasingly "excites" the layers. The complexity of the features incorporated depends on layers chosen by you, i.e, lower layers produce strokes or simple patterns, while deeper layers give sophisticated features in images, or even whole objects. The loss is the sum of the activations in the chosen layers. The loss is normalized at each layer so the contribution from larger layers does not outweigh smaller layers. Normally, loss is a quantity you wish to minimize via gradient descent. In DeepDream, you will maximize this loss via gradient ascent"
+Qoute from [official website](https://www.tensorflow.org/tutorials/generative/deepdream): "DeepDream is an experiment that visualizes the patterns learned by a neural network. Similar to when a child watches clouds and tries to interpret random shapes, DeepDream over-interprets and enhances the patterns it sees in an image. The idea in DeepDream is to choose a layer (or layers) and maximize the "loss" in a way that the image increasingly "excites" the layers. Normally, loss is a quantity you wish to minimize via gradient descent. In DeepDream, you will maximize this loss via gradient ascent"
 
-Every collection incorperate the idea of deep dreaming by passing the original image/file through trained model randomly choosen from variety of [pre-trained model](https://keras.io/api/applications/#available-models) using randomly selected set of layer and activatation function to create dream like image of the original image. 
+Every collection incorperate the idea of deep dreaming by passing the original image/file through pre-trained model randomly choosen from variety of [pre-trained model list](https://keras.io/api/applications/#available-models) with randomly selected layer(s) to create dream like image of the original image. 
 
 
 # Did You Wash Your Hands?
