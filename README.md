@@ -93,7 +93,7 @@ May be it is the time to find the new normal. The [New-Normal](https://opensea.i
 
 # The second wave of covid19
 
-[The 2nd Wave of Covid19](https://opensea.io/tsigoloib/the-second-wave-of-covid19?search[sortBy]=LISTING_DATE) is the follow up collection from the first Covid19 collection where the overall concept and shape is the same while the change is the texture. 
+[The 2nd Wave of Covid19](https://opensea.io/tsigoloib/the-second-wave-of-covid19?search[sortBy]=LISTING_DATE) is the follow up collection from the first Covid19 collection where the overall concept and shape is the same while the change is the texture. The color used here are red and blue which is spiderman inspired. The main sphere part of object is attched with lots of small blue color particle while the protein part of the virus is attached with the red color particle instead.
 
 | | | 
 |:-------------------------:|:-------------------------:|
