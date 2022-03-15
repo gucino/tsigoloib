@@ -1,5 +1,5 @@
 
-# Overview
+# Introduction
 [tsigoloib](https://opensea.io/tsigoloib), biologist backward is an biology and artificial intelligence inspired NFT minted on [opensea.io](https://opensea.io) polygon chain since June 2021 using Blender 3D modeling. The theme here combine the aspect of biology such as virus/disease and technology such as artificial intelligence and cyber crime. There are currently 5 collections: The new-normal, The 2nd wave of Covid19, The infected DNA, Did you wash your hands, Artificial Intelligence: Oppurtunity or Threat.
 
 | | | | | |
@@ -17,7 +17,7 @@ Every collection incorperate the idea of deep dreaming by passing the original i
 
 
 # Did You Wash Your Hands?
-Have I wash my hand? The concept of [Did You Wash Your Hands?](https://opensea.io/tsigoloib/did-you-wash-your-hands?search[resultModel]=ASSETS&search[sortBy]=LISTING_DATE) collection is to repesent the overthinking about Corona virus. The object used the overall shape of the brain where one side have the realistic-brain pink colour texture while the other side has the green dirty Corona virus texture to represent the feeling that we worried about the virus all the time.
+Have I wash my hand? The concept of [Did You Wash Your Hands?](https://opensea.io/tsigoloib/did-you-wash-your-hands?search[resultModel]=ASSETS&search[sortBy]=LISTING_DATE) collection is to repesent the overthinking about Corona virus. The object used the overall shape of the brain with 2 different types of textures separated at the center of the shape. One side have the realistic-brain pink colour texture while the other side has the green dirty Corona virus texture to represent the feeling that we worried about the virus all the time. 
 
 | | | 
 |:-------------------------:|:-------------------------:|
@@ -44,7 +44,7 @@ May be it is the time to find the new normal. The [New-Normal](https://opensea.i
 
 
 # The infected DNA
-Look closely there is some spider attached at the DNA. The skin of object is attached with many small dirty texture particle.
+This is just random collection created when I want to experience new technique to create spiral/DNA-like structure in Blender. The DNA shape is constructed with 2 spiral shape which are wrap with green dirty like texture. Futuremore, large amount of small particle is also acttach with the core shape to create rough dirty like surface of DNA. If you look closely there are some spiders on the DNA as well.
 | | | 
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA2_batch_normalization_1805.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA3_batch_normalization_1770.png">   |
