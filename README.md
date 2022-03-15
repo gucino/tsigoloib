@@ -13,7 +13,46 @@
 
 Qoute from [official website](https://www.tensorflow.org/tutorials/generative/deepdream): "DeepDream is an experiment that visualizes the patterns learned by a neural network. Similar to when a child watches clouds and tries to interpret random shapes, DeepDream over-interprets and enhances the patterns it sees in an image. The idea in DeepDream is to choose a layer (or layers) and maximize the "loss" in a way that the image increasingly "excites" the layers. Normally, loss is a quantity you wish to minimize via gradient descent. In DeepDream, you will maximize this loss via gradient ascent"
 
-Every collection incorperate the idea of deep dreaming by passing the original image/file through pre-trained model randomly choosen from variety of [pre-trained model list](https://keras.io/api/applications/#available-models) with randomly selected layer(s) to create dream like image of the original image. 
+Every collection incorperate the idea of deep dreaming by passing the original image/file through pre-trained model randomly choosen from variety of [pre-trained model list](https://keras.io/api/applications/#available-models) with randomly selected layer(s) to create dream like image of the original image using DeepDreaming.py
+
+```python
+#get images in the original folder
+path = os.getcwd()
+path = os.path.join(path,'original_image')
+file_ls = os.listdir(path)
+
+for file_name in file_ls:  
+    if file_name.split('.')[-1] == 'png':
+        #my image
+        image = np.array(PIL.Image.open(f'original_image/{file_name}'))[:,:,:3]
+        
+        #pre-trained model originally used in DeepDream
+        base_model = tf.keras.applications.InceptionV3 (include_top=False, weights='imagenet')
+        
+        #layer ls
+        layer_ls = []
+        for i, layer in enumerate(base_model.layers):
+           layer_ls.append(layer.name)
+           
+        #Maximize the activations of these layers
+        names = np.random.choice(layer_ls,3)
+        layers = [base_model.get_layer(name).output for name in names]
+        
+        #Create the feature extraction model
+        dream_model = tf.keras.Model(inputs=base_model.input, outputs=layers)
+        deepdream = DeepDream(dream_model)
+        dream_img = run_deep_dream_simple(img=image, steps=100, step_size=0.01)
+    
+        #save image
+        dream_img = np.array(dream_img)
+        i = PIL.Image.fromarray(dream_img)
+        
+        layer_name = ''
+        for each in names:
+            layer_name += each
+        new_file_name = f'DREAM_ME/{file_name.split(".")[0]}_{layer_name}.png'
+        i.save(new_file_name)
+```
 
 
 # Did You Wash Your Hands?
