@@ -55,8 +55,8 @@ May be it is the time to find the new normal. The [New-Normal](https://opensea.i
 # The second wave of covid19
 | | | 
 |:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus6_batch_normalization_3624.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus7_average_pooling2d_321.png"> |
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus11_average_pooling2d_199conv2d_2070.png">   |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/vrisu13_batch_normalization_2254batch_normalization_2168.png">   
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus6_batch_normalization_3624.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/vrisu13_batch_normalization_2254batch_normalization_2168.png"> |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus11_average_pooling2d_199conv2d_2070.png">   |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus7_average_pooling2d_321.png">   
 
 
 
