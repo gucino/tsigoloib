@@ -5,7 +5,7 @@
 | | | | | |
 |:-------------------------:|:-------------------------:| :-------------------------:|:-------------------------:|:-------------------------:|
 |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain5.png"> |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_6.png"> |<img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL9.png"> |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_9.png"> |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA3.png"> |
-|<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA5.png"> |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus11.png">| <img width="1604/2" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus7.png"> | <img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain2.png"> | <img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL13.png"> |
+|<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA5.png"> |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus11.png">| <img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus7.png"> | <img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain2.png"> | <img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL13.png"> |
 |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain7.png"> |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA2.png"> |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL4.png"> |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL11.png"> |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_8.png"> 
 
 
@@ -60,16 +60,16 @@ Have I wash my hand? The concept of [Did You Wash Your Hands?](https://opensea.i
 
 | | | 
 |:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain2_conv2d_1380activation_1399.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain5_activation_580.png">| 
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain7_conv2d_426.png">   |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain6_conv2d_37.png"> | 
+|<img walt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain2_conv2d_1380activation_1399.png"> |  <img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain5_activation_580.png">| 
+|<img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain7_conv2d_426.png">   |  <img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain6_conv2d_37.png"> | 
 
 # Aritificial Intelligence: Oppurtunity or Threat?
 Oppurtunity or Threat? The Beginning or the End? The concept of [Aritificial Intelligence: Oppurtunity or Threat?](https://opensea.io/tsigoloib/aritificial-intelligence-oppurtunities-or-threats?search[resultModel]=ASSETS&search[sortBy]=LISTING_DATE) collection is to question whether the raise of Artificial Intelligence is the future of humanity or the end. The object represent the struture of ANN (Artificial Neural Network) in 3D which is inspired from real neural network inside human brain. Since most of the people view the AI to be the futrue of the humanity, the connection between each neuron is made with red color muscle-like texture to resemble Titan skin (attack on titan) to represent the fearness of AI destroying the humanity. The node itself is created with the bone-like texture, which is also inspired from attack on Titan.
 
 | | | 
 |:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL4_activation_3981.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL11_activation_2656.png">| 
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL9_conv2d_2154.png">   |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL13_conv2d_2293.png"> | 
+|<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL4_activation_3981.png"> |  <img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL11_activation_2656.png">| 
+|<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL9_conv2d_2154.png">   |  <img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL13_conv2d_2293.png"> | 
 
 
 # New Normal
@@ -78,8 +78,8 @@ May be it is the time to find the new normal. The [New-Normal](https://opensea.i
 
 | | | 
 |:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_11_activation_2482.png">   |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_6_activation_1883activation_1885.png"> | 
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_9_batch_normalization_3400.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_8_conv2d_3547.png">| 
+|<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_11_activation_2482.png">   |  <img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_6_activation_1883activation_1885.png"> | 
+|<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_9_batch_normalization_3400.png"> |  <img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_8_conv2d_3547.png">| 
 
 
 # The infected DNA
@@ -87,8 +87,8 @@ May be it is the time to find the new normal. The [New-Normal](https://opensea.i
 
 | | | 
 |:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA2_batch_normalization_1805.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA3_batch_normalization_1770.png">   |
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA5_conv2d_236conv2d_280.png">   |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA4_average_pooling2d_110.png">   
+|<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA2_batch_normalization_1805.png"> |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA3_batch_normalization_1770.png">   |
+|<img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA5_conv2d_236conv2d_280.png">   |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA4_average_pooling2d_110.png">   
 
 
 # The second wave of covid19
@@ -97,8 +97,8 @@ May be it is the time to find the new normal. The [New-Normal](https://opensea.i
 
 | | | 
 |:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus6_batch_normalization_3624.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus7_average_pooling2d_321.png"> |
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus11_average_pooling2d_199conv2d_2070.png">   |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/vrisu13_batch_normalization_2254batch_normalization_2168.png">   
+|<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus6_batch_normalization_3624.png"> |<img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus7_average_pooling2d_321.png"> |
+|<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus11_average_pooling2d_199conv2d_2070.png">   |<img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/vrisu13_batch_normalization_2254batch_normalization_2168.png">   
 
 
 
