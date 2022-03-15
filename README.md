@@ -9,7 +9,7 @@
 |<img width="1604/2" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain7.png"> |<img width="1604/2" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA2.png"> |<img width="1604/2" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL4.png"> |<img width="1604/2" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL11.png"> |<img width="1604/2" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./new_normal/covid_8.png"> 
 
 
-# Deep-Dream
+# DeepDream
 
 Qoute from [official website](https://www.tensorflow.org/tutorials/generative/deepdream): "DeepDream is an experiment that visualizes the patterns learned by a neural network. Similar to when a child watches clouds and tries to interpret random shapes, DeepDream over-interprets and enhances the patterns it sees in an image. The idea in DeepDream is to choose a layer (or layers) and maximize the "loss" in a way that the image increasingly "excites" the layers. Normally, loss is a quantity you wish to minimize via gradient descent. In DeepDream, you will maximize this loss via gradient ascent"
 
@@ -55,8 +55,8 @@ May be it is the time to find the new normal. The [New-Normal](https://opensea.i
 # The second wave of covid19
 | | | 
 |:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus6_batch_normalization_3624.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/vrisu13_batch_normalization_2254batch_normalization_2168.png"> |
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus11_average_pooling2d_199conv2d_2070.png">   |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus7_average_pooling2d_321.png">   
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus6_batch_normalization_3624.png"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus7_average_pooling2d_321.png"> |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus11_average_pooling2d_199conv2d_2070.png">   |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/vrisu13_batch_normalization_2254batch_normalization_2168.png">   
 
 
 
