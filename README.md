@@ -1,6 +1,6 @@
 
 # Introduction
-[tsigoloib](https://opensea.io/tsigoloib), biologist backward is an biology and artificial intelligence inspired NFT minted on [opensea.io](https://opensea.io) polygon chain since June 2021 using Blender 3D modeling. The theme here combine the aspect of biology such as virus/disease and technology such as artificial intelligence and cyber crime. There are currently 5 collections: The new-normal, The 2nd wave of Covid19, The infected DNA, Did you wash your hands, Artificial Intelligence: Oppurtunity or Threat.
+[tsigoloib](https://opensea.io/tsigoloib), biologist backward is an biology and artificial intelligence inspired NFT minted on [opensea.io](https://opensea.io) polygon chain since June 2021 using Blender 3D modeling. The theme here combine the aspect of biology such as virus/disease and technology such as artificial intelligence and cyber crime. There are currently 6 collections: The new-normal, The 2nd wave of Covid19, The infected DNA, Did you wash your hands, Artificial Intelligence: Oppurtunity or Threat, and Big Brother is Watching You.
 
 | | | | | |
 |:-------------------------:|:-------------------------:| :-------------------------:|:-------------------------:|:-------------------------:|
@@ -99,6 +99,16 @@ May be it is the time to find the new normal. The [New-Normal](https://opensea.i
 |:-------------------------:|:-------------------------:|
 |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus6_batch_normalization_3624.png"> |<img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus7_average_pooling2d_321.png"> |
 |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus11_average_pooling2d_199conv2d_2070.png">   |<img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/vrisu13_batch_normalization_2254batch_normalization_2168.png">   
+
+# Big Brother is Watching You
+
+[Big Brother is Watching You](https://opensea.io/tsigoloib/big-brother-is-watching-you?search[sortBy]=LISTING_DATE) use the concept of "is someone watching me from the laptop webcam?" The collection comes in varioous eye color: black, grey, blue, red, purple,and yellow.
+
+| | | 
+|:-------------------------:|:-------------------------:|
+|<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./BBIWY/BBIWY_grey_conv2d_2855.png"> |<img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./BBIWY/BBIWY_purple_batch_normalization_1329.png"> |
+|<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./BBIWY/BBIWY.png">   |<img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./BBIWY/BBIWY_red_activation_3132.png">   
+
 
 
 
