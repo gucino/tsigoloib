@@ -75,7 +75,7 @@ Oppurtunity or Threat? The Beginning or the End? The concept of [Aritificial Int
 
 ## New Normal
 
-May be it is the time to find the new normal. The [New-Normal](https://opensea.io/tsigoloib/new-normal-3?search[resultModel]=ASSETS&search[sortBy]=LISTING_DATE) collection sum up the Corona virus crisis in simple visualisation. The object combine the Earth with the virus shape. The object is warp with the world's map texture which is intentionally made to be unperfect circle. The protein part of virus penetrate out from the surface to represent the situation that humanity got invaded by the virus. Looking closely the protein stick color are different depends on where the stick located with respect to the world's map.
+May be it is the time to find the new normal. The [New-Normal](https://opensea.io/tsigoloib/new-normal-3?search[resultModel]=ASSETS&search[sortBy]=LISTING_DATE) collection sum up the Corona virus crisis in simple visualisation. The object combine the Earth with the virus shape. The object is warp with the world's map texture in which the sphere shape is intentionally made to be imperfect. The protein part of virus penetrate out from the surface to represent the situation that humanity got invaded by the virus. Looking closely the protein stick color are different depends on where the stick located with respect to the world's map.
 
 | | | 
 |:-------------------------:|:-------------------------:|
